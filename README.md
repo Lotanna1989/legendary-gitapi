@@ -1,5 +1,3 @@
-# legendary-gitapi
-An app that fetches my github repos using a github api intgefrated to the app. when it is clicked u can see my repos and when the repos are clicked u can see further info. It also catches error if there is an issues with network or mistyped address or an error, it will display error message or 404 error. Enjoy my app. Thanks
 
 React GitHub Repository Manager
 
@@ -81,6 +79,5 @@ The app provides a user interface where:
 - Buttons for creating and deleting repositories are available.
 - There is a page for NNotfoundpage, if you access the app on localhost and incluse /* u will see the error page.
 - There is also an errorboundary in the app
-
 
 

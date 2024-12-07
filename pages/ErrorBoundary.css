@@ -1,0 +1,26 @@
+.errorboundary-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url('https://www.reddit.com/r/reactjs/comments/77daqf/error_boundaries_in_react_16/')
+      no-repeat center center/cover;
+    color: #fff;
+  }
+  
+  .errorboundary-content {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .errorboundary-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .errorboundary-content p {
+    font-size: 1.5rem;
+  }
+  

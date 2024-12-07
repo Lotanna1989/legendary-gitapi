@@ -1,0 +1,40 @@
+.notfound-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url('https://www.alamy.com/404-page-space-landscape-with-astronauts-galaxy-stars-and-planets-ufo-and-alien-vector-website-error-404-error-or-oops-web-page-not-found-with-back-home-button-for-service-maintenance-screen-image574875644.html')
+      no-repeat center center/cover;
+    color: #fff;
+  }
+  
+  .notfound-content {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .notfound-content h1 {
+    font-size: 5rem;
+    margin-bottom: 20px;
+  }
+  
+  .notfound-content p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .home-button {
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .home-button:hover {
+    background-color: #e64a19;
+  }
+  
